@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NFC-ID-cards</string>
+    <string name="main_text">Приложите карту NFC</string>
+    <string name="nfc_found">Приложите к устройству Вашу карту</string>
+    <string name="nfc_not_found">Устройство не поддерживает NFC</string>
+    <string name="nfc_disabled">Функция NFC не включена</string>
+    <string name="show_nfc_info">КНОПКА1</string>
 </resources>
